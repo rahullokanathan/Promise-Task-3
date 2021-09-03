@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(223, 236, 106);
+  }
+  .heading {
+    font-family: "Akaya Telivigala", cursive;
+  }
+  .card-header {
+    background-color: rgb(44, 42, 42);
+    color: aliceblue;
+  }
+  hr {
+    border-top: 0.3rem dotted black;
+    width: 10%;
+  }
